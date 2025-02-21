@@ -66,6 +66,7 @@ html * {
 --------------------------------------------------------------*/
 header {
 	background-color: mediumseagreen;
+	padding: 20px;
 }
 ul {
 	list-style-type: upper-roman;
@@ -76,7 +77,7 @@ a {
 	color: black;
 }
 a:visited {
-	color: gray;
+	color: slateblue;
 }
 a:hover {
 	color: red;
