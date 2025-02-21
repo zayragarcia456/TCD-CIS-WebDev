@@ -104,7 +104,7 @@ aside {
 # Footer Area
 --------------------------------------------------------------*/
 footer {
-	clear: bottom;
+	clear: right;
 	background-color: mediumseagreen;
 	text-align: center;
 }
