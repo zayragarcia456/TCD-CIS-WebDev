@@ -76,10 +76,10 @@ a:visited {
 	color: gray;
 }
 a:hover {
-	color: brightgreen;
+	color: green;
 }
 a:active {
-	color: red;
+	color: green;
 }
 
 /*--------------------------------------------------------------
