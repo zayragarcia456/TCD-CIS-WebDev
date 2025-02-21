@@ -69,6 +69,18 @@ ul {
 	color: green;
 	text-color: black;
 }
+ul.a {
+	color: black;
+}
+ul.a:visited {
+	color: gray;
+}
+ul.a:hover {
+	color: brightgreen;
+}
+ul.a:active {
+	color: red;
+}
 
 /*--------------------------------------------------------------
 # Content Area
