@@ -64,6 +64,9 @@ html * {
 /*--------------------------------------------------------------
 # Header Area
 --------------------------------------------------------------*/
+header {
+	background-color: mediumseagreen;
+}
 ul {
 	list-style-type: upper-roman;
 	color: green;
