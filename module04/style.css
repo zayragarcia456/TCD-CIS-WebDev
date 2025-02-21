@@ -69,16 +69,16 @@ ul {
 	color: green;
 	text-color: black;
 }
-ul.a {
+a {
 	color: black;
 }
-ul.a:visited {
+a:visited {
 	color: gray;
 }
-ul.a:hover {
+a:hover {
 	color: brightgreen;
 }
-ul.a:active {
+a:active {
 	color: red;
 }
 
