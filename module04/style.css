@@ -98,9 +98,11 @@ main {
 	padding: 1rem;
 	border-right: 1rem;
 }
+.advertisement {
+	text-align: right;
+}
 aside {
 	width: 30%;
-	float: right;
 }
 /*--------------------------------------------------------------
 # Footer Area
