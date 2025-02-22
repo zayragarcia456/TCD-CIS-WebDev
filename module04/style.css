@@ -99,7 +99,7 @@ main {
 	border-right: 1rem;
 }
 .advertisement {
-	text-align: right;
+	float: right;
 }
 aside {
 	width: 30%;
