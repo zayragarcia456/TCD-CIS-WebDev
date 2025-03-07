@@ -8,3 +8,8 @@ img {
   display: block; 
   margin: auto;
 }
+
+/* Text*/
+figcaption {
+  text-align: center;
+}
