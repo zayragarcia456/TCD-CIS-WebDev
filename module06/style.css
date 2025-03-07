@@ -11,5 +11,6 @@ img {
 
 /* Text*/
 figcaption {
-  text-align: center;
+  display: block;
+  margin: auto;
 }
