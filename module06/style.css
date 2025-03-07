@@ -10,7 +10,6 @@ img {
 }
 
 /* Text*/
-figcaption {
-  display: block;
-  margin: auto;
+figure figcaption {
+  text-align: center;
 }
